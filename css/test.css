@@ -1,0 +1,19 @@
+body {
+    font-family: 'Source Code Pro', monospace;
+    background: url(https://theartmad.com/wp-content/uploads/2015/09/Best-Light-Website-Backgrounds-5.jpg);
+}
+
+h1 {
+    color:black;
+    background-color: lightcoral;
+}
+
+#main {
+    font-family: 'Comfortaa', cursive;
+}
+
+#Lesser {
+    color:white;
+    background-color: black;
+}
+
