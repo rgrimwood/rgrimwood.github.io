@@ -1,5 +1,8 @@
-#My CV Website
-##rgrimwood.github.io
+# My CV Website
+
+
+## rgrimwood.github.io
+
 
 This CV used the following template from startbootstrap.com:
 [Resume Template](https://startbootstrap.com/themes/resume/)
