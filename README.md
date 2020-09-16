@@ -7,4 +7,4 @@
 This CV used the following template from startbootstrap.com:
 [Resume Template](https://startbootstrap.com/themes/resume/)
 
-Changes have been made to demostrate understanding of HTML, CSS and Javascript.
+Changes have been made to demonstrate understanding of HTML, CSS and Javascript.
